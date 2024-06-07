@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joker
 - 👀 I’m interested in BugBounty
-- 🌱 I’m currently learning Ehtical Hacking
+- 🌱 I’m Certified Ehtical Hacker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
